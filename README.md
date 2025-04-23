@@ -1,2 +1,2 @@
-# State_Obesity_Rate
-State Obesity Rates from County Public Health Data in 2014-2015
+# State Obesity Rate
+This repository contains a public dataset containing various public health information about different counties in every state in 2014-2015, as well as a small subset that found the average obesity rate per state from the raw dataset. Additionally, there is a Python Notebook containing documentation that recreates the process for generating the subset from the original data, and finally, a visualization of this manipulated dataset.
