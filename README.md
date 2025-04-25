@@ -27,7 +27,8 @@
 ---
 ## **Data Visualization**
 - This visualization was created using the small subset and Microsoft Excel.
-- Information on how to download Microsoft Excel is linked [here](https://support.microsoft.com/en-us/office/download-install-or-reinstall-microsoft-365-or-office-2024-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
-- Information on how to create a geographic heat map in Excel is shown [here](https://www.exceldemy.com/make-geographic-heat-map-in-excel/)
+- Information for how to download Microsoft Excel is linked [here](https://support.microsoft.com/en-us/office/download-install-or-reinstall-microsoft-365-or-office-2024-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) and how to create a geographic heat map in Excel is shown [here](https://www.exceldemy.com/make-geographic-heat-map-in-excel/)
+
+  
 ![image](https://github.com/user-attachments/assets/a160e1ee-3072-48e6-9720-be65a5b62d1a)
 
