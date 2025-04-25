@@ -3,7 +3,7 @@
 - A public dataset containing various public health information about different counties in every state in 2014-2015.
 - A small subset that found the average obesity rate per state from the raw dataset.
 - A Python notebook containing documentation that recreates the process for generating the subset from the original data.
-- A visualization of the subset.
+- A data visualization.
 ---
 ## **What is the purpose of this repository?**
 - To provide state-level information about obesity rates in the USA.
@@ -12,9 +12,9 @@
 ---
 ## **What can this data be used for?**
 - The subset that was created can be used to make a visualization of a USA map regarding obesity rates per state.
-- Government health officials can examine this data to try discovering a solution to the obesity problem.
+- Government health officials can examine this data to try discovering a solution to the nationwide obesity problem.
 - Policymakers can use this data to develop health policies that may lower obesity rates.
-- Original dataset can be used for other forms of analysis from the many different variables of health information.
+- The original dataset can be used for other forms of analysis from the many different variables of health information included.
 ---
 ## **Where is this data from?**
 - The original dataset can be found on the 105-Unit-3 on github linked [here](https://github.com/tarheel105/105-Unit-3).
