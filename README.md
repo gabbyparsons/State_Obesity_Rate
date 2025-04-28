@@ -17,7 +17,7 @@
 - The original dataset can be used for other forms of analysis from the many different variables of health information included.
 ---
 ## **Where is this data from?**
-- The original dataset can be found on the 105-Unit-3 github linked [here](https://github.com/tarheel105/105-Unit-3), with help from the [Research Hub](https://github.com/UNC-Libraries-data) of the UNC's Davis Library.
+- The original dataset can be found on the 105-Unit-3 Github linked [here](https://github.com/tarheel105/105-Unit-3), with help from the [Research Hub](https://github.com/UNC-Libraries-data) of the UNC's Davis Library.
 - It is named "CountyHealthData_2014-2015.csv"
 ---
 ## **How to get started?**
