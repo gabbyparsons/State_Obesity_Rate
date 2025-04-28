@@ -1,4 +1,4 @@
-# State Obesity Rate
+# Average State Obesity Rates
 ## **What's included in this repository?**
 - A public dataset containing various public health information about different counties in every state in 2014-2015.
 - A small subset that found the average obesity rate per state from the raw dataset.
