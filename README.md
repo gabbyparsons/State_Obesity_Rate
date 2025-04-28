@@ -7,7 +7,7 @@
 ---
 ## **What is the purpose of this repository?**
 - To provide state-level information about obesity rates in the USA.
-- To compare the distribution of obesity rates with different regions or states.
+- To compare the distribution of obesity rates with different time periods and with different regions or states.
 - Examine other public health data provided in the original dataset.
 ---
 ## **What can this data be used for?**
